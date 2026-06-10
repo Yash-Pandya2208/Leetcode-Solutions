@@ -40,7 +40,7 @@ Every month, LeetCode releases a set of daily problems. I solve each one and pus
 | Month | Folder | Status |
 |-------|--------|--------|
 | June 2025 | `June-Daily-Challenge/` | ✅ In Progress |
-| July 2025 | `July-Daily-Challenge/` | 🔜 Next Target |
+| July 2025 | `July-Daily-Challenge/` | 🔜 Coming Soon |
 
 ---
 
@@ -51,7 +51,7 @@ Every month, LeetCode releases a set of daily problems. I solve each one and pus
 | `Arrays/` | Two pointers, sliding window, prefix sum | 🟡 Learning |
 | `Strings/` | Palindromes, anagrams, pattern matching | 🟡 Learning |
 | `Trees/` | Binary tree, BST, BFS/DFS traversals | 🟡 Learning |
-| Linked Lists | Reversal, cycle detection | 🟡 Learning |
+| Linked Lists | Reversal, cycle detection | 🔜 Coming Soon |
 | Graphs | BFS, DFS, union-find | 🔜 Coming Soon |
 | Dynamic Programming | Memoization, tabulation | 🔜 Coming Soon |
 | Recursion & Backtracking | Subsets, permutations | 🔜 Coming Soon |
@@ -78,7 +78,9 @@ Every month, LeetCode releases a set of daily problems. I solve each one and pus
 
 ---
 
-## 🤝 Connect
+## 👤 Author
+
+**Yash Pandya**
 
 [![GitHub](https://img.shields.io/badge/GitHub-YashPandyaa-black?style=flat&logo=github)](https://github.com/YashPandyaa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Yash__Pandya22-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Yash_Pandya22/)
