@@ -1,81 +1,60 @@
-# Leetcode-Solutions
-<h1 align="center">🧩 LeetCode Solutions</h1>
+<h1 align="center">Hey, I'm Yash Pandya 👋</h1>
+<h3 align="center">A student on a mission to get better at DSA — one problem at a time.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Updated-Monthly-brightgreen?style=for-the-badge" />
-</p>
-
-<p align="center">
-  A personal collection of my LeetCode solutions written in <strong>Java</strong>.<br/>
-  I solve the monthly LeetCode challenges along with covering all core Java DSA topics.
+  <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 About This Repository
+## 🙋‍♂️ About This Repo
 
-This repo contains:
-- ✅ **Monthly LeetCode Questions** — solved as part of LeetCode's monthly challenges
-- 📚 **Java DSA Topics** — comprehensive coverage of all major data structures and algorithms
+I'm a student learning Data Structures & Algorithms in Java.
+This repo is my **public notebook** — every solution I push here is me figuring things out, making mistakes, and slowly getting better.
 
-All solutions are written in **Java** with clean, readable code.
+Not all solutions are perfect. Some are brute force. Some are optimized. That's the point.
 
----
-
-## 🗂️ Topics Covered
-
-| # | Topic | Description |
-|---|-------|-------------|
-| 1 | **Arrays** | Traversal, sliding window, two pointers, prefix sum |
-| 2 | **Strings** | Manipulation, palindromes, anagrams, pattern matching |
-| 3 | **Linked Lists** | Singly, doubly, reversal, cycle detection |
-| 4 | **Stacks & Queues** | Monotonic stack, deque, priority queue |
-| 5 | **Trees** | Binary tree, BST, traversals (BFS/DFS) |
-| 6 | **Graphs** | BFS, DFS, topological sort, union-find |
-| 7 | **Dynamic Programming** | Memoization, tabulation, knapsack, LCS |
-| 8 | **Recursion & Backtracking** | Subsets, permutations, N-Queens |
-| 9 | **Sorting & Searching** | Binary search, merge sort, quick sort |
-| 10 | **Hashing** | HashMap, HashSet, frequency counting |
-| 11 | **Heaps** | Min/Max heap, K-th largest, top-K elements |
-| 12 | **Tries** | Prefix trees, word search |
-| 13 | **Math & Bit Manipulation** | Bitwise ops, number theory |
-| 14 | **Greedy** | Interval scheduling, activity selection |
+> *"The best way to learn is to do."*
 
 ---
 
-## 📅 Monthly Challenges
-
-Solutions to LeetCode's monthly problem sets are organized by month:
+## 📁 Structure
 
 ```
-monthly/
-├── 2025-01/
-├── 2025-02/
-├── ...
-└── 2025-XX/
-```
-
-Each file is named after the problem for easy lookup.
-
----
-
-
-Each solution can be compiled and run independently:
-
-```bash
-javac SolutionFileName.java
-java SolutionFileName
+Leetcode-Solutions/
+├── June-Daily-Challenge/
+├── Arrays/
+├── Strings/
+├── Trees/
+└── README.md
 ```
 
 ---
 
-## 🧠 Approach
+## 📅 Monthly Daily Challenges
 
-- Solutions focus on **optimal time and space complexity**
-- Code is written to be **readable and well-commented**
-- Multiple approaches are explored where applicable (brute force → optimized)
+Every month, LeetCode releases a set of daily problems. I solve each one and push my solution here.
+
+| Month | Folder | Status |
+|-------|--------|--------|
+| June 2025 | `June-Daily-Challenge/` | ✅ In Progress |
+| July 2025 | `July-Daily-Challenge/` | 🔜 Coming Soon |
+
+---
+
+## 🧠 Topics I'm Learning
+
+| Folder | Topic | Progress |
+|--------|-------|----------|
+| `Arrays/` | Two pointers, sliding window, prefix sum | 🟡 Learning |
+| `Strings/` | Palindromes, anagrams, pattern matching | 🟡 Learning |
+| `Trees/` | Binary tree, BST, BFS/DFS traversals | 🟡 Learning |
+| Linked Lists | Reversal, cycle detection | 🔜 Coming Soon |
+| Graphs | BFS, DFS, union-find | 🔜 Coming Soon |
+| Dynamic Programming | Memoization, tabulation | 🔜 Coming Soon |
+| Recursion & Backtracking | Subsets, permutations | 🔜 Coming Soon |
 
 ---
 
@@ -83,11 +62,11 @@ java SolutionFileName
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | — |
-| 🟡 Medium | — |
-| 🔴 Hard | — |
+| 🟢 Easy    | —      |
+| 🟡 Medium  | —      |
+| 🔴 Hard    | —      |
 
-> Update these numbers as you solve more problems!
+*(Updating as I go!)*
 
 ---
 
@@ -95,17 +74,16 @@ java SolutionFileName
 
 - **Language:** Java
 - **Platform:** [LeetCode](https://leetcode.com/)
-- **IDE:** IntelliJ IDEA / VS Code
+- **IDE:** VS Code / IntelliJ IDEA
 
 ---
 
 ## 🤝 Connect
-
-If you find this repo helpful, feel free to ⭐ star it!
 
 [![GitHub](https://img.shields.io/badge/GitHub-YashPandyaa-black?style=flat&logo=github)](https://github.com/YashPandyaa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/)
 
 ---
 
+<p align="center">This is my journey. It's messy, it's slow, and that's okay. 🚀</p>
 <p align="center">Made with ❤️ and lots of ☕</p>
