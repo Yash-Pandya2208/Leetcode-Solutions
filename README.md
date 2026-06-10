@@ -61,14 +61,6 @@ Each file is named after the problem for easy lookup.
 
 ---
 
-## 🚀 Getting Started
-
-Clone the repo and open any `.java` file in your preferred IDE:
-
-```bash
-git clone https://github.com/YashPandyaa/Leetcode-Solutions.git
-cd Leetcode-Solutions
-```
 
 Each solution can be compiled and run independently:
 
