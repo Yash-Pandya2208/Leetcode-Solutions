@@ -81,7 +81,7 @@ Every month, LeetCode releases a set of daily problems. I solve each one and pus
 ## 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-YashPandyaa-black?style=flat&logo=github)](https://github.com/YashPandyaa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/)
+[![LeetCode](https://leetcode.com/u/Yash_Pandya22/)
 
 ---
 
