@@ -40,7 +40,7 @@ Every month, LeetCode releases a set of daily problems. I solve each one and pus
 | Month | Folder | Status |
 |-------|--------|--------|
 | June 2025 | `June-Daily-Challenge/` | ✅ In Progress |
-| July 2025 | `July-Daily-Challenge/` | 🔜 Coming Soon |
+| July 2025 | `July-Daily-Challenge/` | 🔜 Next Target |
 
 ---
 
@@ -51,7 +51,7 @@ Every month, LeetCode releases a set of daily problems. I solve each one and pus
 | `Arrays/` | Two pointers, sliding window, prefix sum | 🟡 Learning |
 | `Strings/` | Palindromes, anagrams, pattern matching | 🟡 Learning |
 | `Trees/` | Binary tree, BST, BFS/DFS traversals | 🟡 Learning |
-| Linked Lists | Reversal, cycle detection | 🔜 Coming Soon |
+| Linked Lists | Reversal, cycle detection | 🟡 Learning |
 | Graphs | BFS, DFS, union-find | 🔜 Coming Soon |
 | Dynamic Programming | Memoization, tabulation | 🔜 Coming Soon |
 | Recursion & Backtracking | Subsets, permutations | 🔜 Coming Soon |
