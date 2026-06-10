@@ -26,7 +26,8 @@ Leetcode-Solutions/
 ├── June-Daily-Challenge/
 ├── Arrays/
 ├── Strings/
-├── Trees/
+├── Math/
+├── LinkList/
 └── README.md
 ```
 
