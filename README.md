@@ -1,4 +1,3 @@
-<h1 align="center">Hey, I'm Yash Pandya 👋</h1>
 <h3 align="center">A student on a mission to get better at DSA — one problem at a time.</h3>
 
 <p align="center">
